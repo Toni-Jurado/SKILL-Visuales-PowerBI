@@ -1,0 +1,60 @@
+{
+  "name": "<NOMBRE_TEMA>",
+  "$schema": "<URL_O_RUTA_SCHEMA_2_155>",
+  "dataColors": [
+    "<COLOR_PRINCIPAL>",
+    "<COLOR_SECUNDARIO>",
+    "<COLOR_TERCIARIO>",
+    "<COLOR_CUARTO>",
+    "<COLOR_QUINTO>",
+    "<COLOR_SEXTO>"
+  ],
+  "visualStyles": {
+    "clusteredColumnChart": {
+      "*": {
+        "*": [
+          {
+            "show": true,
+            "titleText": "<TITULO_VISUAL>",
+            "barShow": true,
+            "barColor": {
+              "solid": {
+                "color": "<COLOR_PRINCIPAL>"
+              }
+            },
+            "labelShow": <MOSTRAR_ETIQUETAS>,
+            "labelDisplayUnits": <UNIDADES_ETIQUETA>,
+            "labelPrecision": <DECIMALES_ETIQUETA>,
+            "gridlineShow": <MOSTRAR_GRID_Y>,
+            "showAxisTitle": <MOSTRAR_TITULOS_EJE>,
+            "valueSize": <TAMANIO_RANGO_EJE_Y>,
+            "categorySize": <TAMANIO_RANGO_EJE_X>
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "<COLOR_BORDE>"
+              }
+            },
+            "width": <ANCHO_BORDE>,
+            "radius": <RADIO_BORDE>
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "<COLOR_FONDO_VISUAL>"
+              }
+            },
+            "transparency": <TRANSPARENCIA_FONDO>
+          }
+        ]
+      }
+    }
+  }
+}

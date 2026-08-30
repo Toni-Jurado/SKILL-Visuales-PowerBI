@@ -1,0 +1,8 @@
+createOrReplace
+
+  table <TABLA_DESTINO>
+
+    measure '<NOMBRE_MEDIDA>' = <EXPRESION_DAX>
+      formatString: <FORMATO_MEDIDA>
+      displayFolder: <CARPETA_MEDIDA>
+      description: <DESCRIPCION_MEDIDA>
