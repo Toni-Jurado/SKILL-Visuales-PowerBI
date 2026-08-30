@@ -1,7 +1,7 @@
 
 # Repositorio con SKILL de diseño de Visuales para Power BI
 
-![SKILLs PowerBI](https://img.shields.io/badge/SKILLs%20PowerBI-green)
+![SKILLs PowerBI](https://img.shields.io/badge/SKILLs%20PowerBI-green?style=for-the-badge)
 
 Repositorio de **Skills** orientadas a ayudarnos a generar visuales de Power BI apoyados en Agentes e IA.
 
